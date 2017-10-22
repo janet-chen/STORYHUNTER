@@ -1,3 +1,10 @@
+## Storyhunter: a DubHacks 2017 Project 
+*Created with awe by Chris Cebrero, Janet Chen, Vivian Lam, Jonathan Medhanie, and Nick Wu from UBC.*
+
+![screen-1](https://raw.githubusercontent.com/janet-chen/STORYHUNTER/master/screens-1.png)
+
+![screen-2](https://raw.githubusercontent.com/janet-chen/STORYHUNTER/master/screens-2.png)
+
 ## Inspiration
 Explore your city, make new friends, and immerse yourself in this interactive, story-telling Marvel experience. 
 We were inspired to break down barriers for connecting Marvel fans across cities by using Marvel API and Google Maps API. 
