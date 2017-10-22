@@ -1,5 +1,5 @@
 ## Storyhunter: a DubHacks 2017 Project 
-*Created with awe by Chris Cebrero, Janet Chen, Vivian Lam, Jonathan Medhanie, and Nick Wu from UBC.*
+*Created with friendship by Chris Cebrero, Janet Chen, Vivian Lam, Jonathan Medhanie, and Nick Wu from UBC.*
 
 ![screen-1](https://raw.githubusercontent.com/janet-chen/STORYHUNTER/master/screens-1.png)
 
